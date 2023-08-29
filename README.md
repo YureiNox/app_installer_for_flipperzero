@@ -1,5 +1,8 @@
 # app_installer_for_flipperzero
 An python app for install c app on flipperzero
+# Unoffical Flipper Zero application
+
+![](https://thumb.tildacdn.com/tild3332-3839-4061-b663-363464303432/-/resize/214x/-/format/webp/noroot.png)
 
 # How to use/install: 
 
