@@ -1,7 +1,7 @@
 # app_installer_for_flipperzero
 An python app for install c app on flipperzero
 
-# "How to use: 
+# How to use: 
 
 It's quite easy. 
 Download Python
