@@ -25,3 +25,4 @@ python installer.py
 
 ## And there you go, you're all set to enjoy it!
 
+If you want to modify and republish the projects presented here, please ask for consent on Instagram (same goes for any collaboration or ideas you may have for future updates).
