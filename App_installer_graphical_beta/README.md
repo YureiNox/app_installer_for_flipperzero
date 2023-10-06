@@ -15,6 +15,7 @@ or
 pip3 install tk
 ```
 4- git 
-it's all
+
+and it's all !!!
 
 
