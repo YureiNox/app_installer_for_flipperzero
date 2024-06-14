@@ -1,28 +1,44 @@
-# app_installer_for_flipperzero
-An python app for install c app on flipperzero
-# Unoffical Flipper Zero application
+# App Installer for Flipper Zero
 
-![](https://thumb.tildacdn.com/tild3332-3839-4061-b663-363464303432/-/resize/214x/-/format/webp/noroot.png)
+A Python application for installing C apps on the Flipper Zero.
 
-# How to use/install: 
+![Flipper Zero Logo](https://thumb.tildacdn.com/tild3332-3839-4061-b663-363464303432/-/resize/214x/-/format/webp/noroot.png)
 
-## It's quite easy. 
-## Download Python
-python.org
-## install pip
-### on windows --> https://www.geeksforgeeks.org/how-to-install-pip-on-windows/
-### on mac --> https://phoenixnap.com/kb/install-pip-mac
-### on linux pip and python are normaly allready installed
-## install the requirements from the requirements.txt file
-```bash
-pip install -r requirements.txt
-```
-## create your app
-## and run the script. 
-```bash
-python installer.py
-```
+## How to Use/Install
 
-## And there you go, you're all set to enjoy it!
+### Prerequisites
 
-If you want to modify and republish the projects presented here, please ask for consent on Instagram (same goes for any collaboration or ideas you may have for future updates).
+1. **Download Python**: [python.org](https://www.python.org)
+2. **Install pip**:
+    - **Windows**: [Guide to install pip on Windows](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/)
+    - **Mac**: [Guide to install pip on Mac](https://phoenixnap.com/kb/install-pip-mac)
+    - **Linux**: Pip and Python are usually pre-installed on most distributions.
+
+### Installation Steps
+
+1. **Clone the Repository**:
+    ```bash
+    git clone https://github.com/yourusername/app_installer_for_flipperzero.git
+    cd app_installer_for_flipperzero
+    ```
+
+2. **Install the Requirements**:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. **Create Your App**:
+    - Follow the instructions provided in the repository to create your app.
+
+4. **Run the Script**:
+    ```bash
+    python installer.py
+    ```
+
+### You're All Set!
+
+Enjoy using the app installer for your Flipper Zero.
+
+## Contributions
+
+If you wish to modify and republish the projects presented here, please ask for consent on Instagram. The same applies for any collaboration or ideas you may have for future updates.
